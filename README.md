@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 -->
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&size=35&duration=3000&pause=2500&color=D2B400&center=true&vCenter=true&width=435&lines=Hi%2C+myself+Vishal+Anand" /> </h3>
 
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/spiritman021/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+     <a href="https://www.instagram.com/spiritman_021"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:karnvishal021@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+ 
