@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **Spiritman021/Spiritman021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather+Sans&size=35&duration=3000&pause=2500&color=D2B400&center=true&vCenter=true&width=435&lines=Hi%2C+myself+Vishal+Anand" /> </h3>
+
